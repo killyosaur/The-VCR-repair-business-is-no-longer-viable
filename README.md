@@ -1,11 +1,7 @@
 # The-VCR-repair-business-is-no-longer-viable
+
 This is a repository. There are many like it, but this one is mine.
 
-Isn't that immoral?!
+## Here are the posts that are associated with this repo
 
-
-## Sources, because I ain't getting nailed by [HBomberGuy](https://www.youtube.com/watch?v=yDp3cB5fHXQ)
-
-[Rust — Modules and Project Structure](https://medium.com/codex/rust-modules-and-project-structure-832404a33e2e)
-[Software Architecture](https://martinfowler.com/architecture/)
-[What Makes a good Software Library](https://www.thereformedprogrammer.net/what-makes-a-good-software-library/)
+- [A Beginning and Creating a Rust Library](https://medium.com/@killyosaur/a-beginning-and-creating-a-rust-library-e30da250706b)

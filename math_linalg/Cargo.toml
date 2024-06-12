@@ -1,5 +1,5 @@
 [package]
-name = "test_app"
+name = "math_linalg"
 version = "0.1.0"
 edition = "2021"
 
