@@ -5,3 +5,6 @@ This is a repository. There are many like it, but this one is mine.
 ## Here are the posts that are associated with this repo
 
 - [A Beginning and Creating a Rust Library](https://medium.com/@killyosaur/a-beginning-and-creating-a-rust-library-e30da250706b)
+- image tutorials:
+  - [Procedural Rust](https://www.artstation.com/blogs/jsabbott/PQQ6j/making-a-procedural-rusted-metal-material-blender-40)
+  - 
