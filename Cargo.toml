@@ -4,4 +4,5 @@ resolver = "2"
 members = [
   "math_linalg",
   "math_calc",
+  "graph_network",
 ]
